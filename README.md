@@ -1,20 +1,33 @@
 # Murilo C. Seidenstucker
 `Python` • `FastAPI` • `Docker` • `TDD` • `CI/CD`
 
-Software Engineer focado em automação de processos e arquiteturas backend escaláveis. Atualmente, atuo como **Analista de Licitação**, onde projeto e implemento soluções em Python para transformar fluxos de trabalho manuais em ecossistemas digitais eficientes.
+Backend developer em transição de carreira, utilizando Python para desenvolver ferramentas voltadas à resolução de problemas reais da rotina operacional de licitações.
 
-### 🛠 Tech Stack & Ferramentas
-- **Backend:** Python, FastAPI, SQLAlchemy (Async), Pydantic.
-- **Data:** PostgreSQL, Migrations com Alembic.
-- **Quality & Testing:** TDD, Pytest, Testcontainers e automação E2E com Playwright.
-- **Infrastructure:** Docker, Docker Compose, Nginx.
-- **DevOps:** CI/CD com GitHub Actions e automação de workflow.
+Atualmente trabalho como Analista de Licitação, onde aplico desenvolvimento backend para organizar métricas, reduzir processos manuais e estruturar soluções internas voltadas à gestão operacional.
 
-### 🚀 Projeto em Destaque: Tender Manager
-O **[Tender Manager](https://github.com/MuriloCSeidenstucker/tender-manager)** é uma solução de engenharia projetada para resolver dores reais na gestão de licitações e métricas de desempenho.
-- **Arquitetura:** API assíncrona robusta com foco em alta performance e integridade de dados.
-- **Confiabilidade:** Suíte rigorosa de testes automatizados simulando a jornada real do analista.
-- **Portabilidade:** Ambiente 100% conteinerizado, permitindo execução e validação imediata via Docker.
+### 🛠 Tecnologias e Prática
+- **Backend:** Python, FastAPI, SQLAlchemy e Pydantic.
+- **Banco de Dados:** PostgreSQL, Migrations com Alembic.
+- **Testes:** TDD, Pytest e automação E2E com Playwright.
+- **Infraestrutura:** Docker, Docker Compose e GitHub Actions.
+- **Prática:** APIs REST, ferramentas internas e organização de regras de negócio.
+
+### 🚀 Projetos em Destaque
+**[Tender Manager](https://github.com/MuriloCSeidenstucker/tender-manager)**
+
+Sistema desenvolvido para auxiliar no gerenciamento de licitações e métricas operacionais da rotina de analistas.
+- Controle de licitações, status e resultados.
+- Dashboard com métricas organizadas por empresa.
+- Backend desenvolvido com FastAPI e PostgreSQL.
+- Ambiente padronizado com Docker Compose.
+- Testes unitários para validação das regras de negócio.
+
+**[MSLOOKUP-REF](https://github.com/MuriloCSeidenstucker/mslookup-ref)**
+
+Projeto criado após dificuldades de manutenção encontradas em uma versão anterior da aplicação ([MSLOOKUP](https://github.com/MuriloCSeidenstucker/mslookup)), com foco em melhorar organização do código e separação de responsabilidades.
+- Consulta e organização de dados públicos relacionados a medicamentos.
+- Estruturação backend voltada à evolução e manutenção da aplicação.
+- Projeto utilizado como prática de arquitetura e organização de regras de negócio.
 
 ### 📫 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/murilocseidenstucker/)
